@@ -4,10 +4,10 @@
 
 全面体验 [**Grok3 中文版**](https://chat.yixiaai.com)，国内直连，**无需翻墙**，**支持 Grok3 及中文版功能**   
 
-本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjing.ai)、[**Grok3 国内入口**](https://chat.yixiaai.com)、[**Grok 镜像网站**](https://chat.lanjing.ai) 和详细使用教程，帮助您快速使用上 grok~
+本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjing.pro)、[**Grok3 国内入口**](https://chat.yixiaai.com)、[**Grok 镜像网站**](https://chat.lanjing.pro) 和详细使用教程，帮助您快速使用上 grok~
 
 **Grok3 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
-**Grok3 镜像网站：[https://chat.lanjing.ai](https://chat.lanjing.ai)**
+**Grok3 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
 
@@ -38,7 +38,7 @@
 | Grok 中文站网址                                   | 支持模型                                               | 稳定性   | 功能亮点                                                         |
 |----------------------------------------------------|-------------------------------------------------------|----------|------------------------------------------------------------------|
 | **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**     | Grok-3 Reasoning、GPT-4, GPT-4o, o1, o3                | ⭐⭐⭐⭐⭐   | Grok3 中文版，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
-| **蓝鲸AI ([chat.lanjing.ai](https://chat.lanjing.ai/))**       | Grok 3 Reasoning、GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet | ⭐⭐⭐⭐⭐   | 使用简单，先进大模型，适合新手用户                                   |
+| **蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro/))**       | Grok 3 Reasoning、GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet | ⭐⭐⭐⭐⭐   | 使用简单，先进大模型，适合新手用户                                   |
 | **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**       | Grok-3 Reasoning、GPT-4, GPT-4o, o1, o3                | ⭐⭐⭐⭐⭐   | Grok3 镜像网站，支持 4o、o1、o3 等全模型，支持 AI 写作、AI 编程、AI 办公，满足多种行业需求 |
 | **AI指南 ([guide1.lanjing.ai](https://guide1.lanjing.ai))**    | GPT-4, GPT-4o, o1                                      | ⭐⭐⭐⭐    | 提供 AI 使用指南，ChatGPT 中文版使用指南                           |
 | **AI工具站 ([yixiaai.cn](https://yixiaai.cn))**               | GPT-4, GPT-3.5, 4o mini                                | ⭐⭐⭐⭐    | AI 工具导航网站，汇聚大量工具，满足你的各种需求                      |
