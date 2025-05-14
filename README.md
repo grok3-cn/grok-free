@@ -1,12 +1,12 @@
 # Grok 官网入口：一分钟教会你在国内使用上 Grok3~
 
-> 更新时间：2025/05/14        
+> 更新时间：2025/05/15        
 
 全面体验 [**Grok3 中文版**](https://chat.lanjing.pro)，国内直连，**无需翻墙**，**支持 Grok3 及中文版功能**   
 
-本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjing.pro)、[**Grok3 国内入口**](https://chat.xsimple.top)、[**Grok 镜像网站**](https://chat.lanjing.pro) 和详细使用教程，帮助您快速使用上 grok~
+本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjing.pro)、[**Grok3 国内入口**](https://xsimplechat.com)、[**Grok 镜像网站**](https://chat.lanjing.pro) 和详细使用教程，帮助您快速使用上 grok~
 
-**Grok3 中文版入口：[https://chat.yixiaai.com](https://chat.xsimple.top)**   
+**Grok3 中文版入口：[https://chat.yixiaai.com](https://xsimplechat.com)**   
 **Grok3 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
