@@ -1,13 +1,13 @@
 # Grok 官网入口：一分钟教会你在国内使用上 Grok3~
 
-> 更新时间：2025/09/18
+> 更新时间：2025/09/19
 
-全面体验 [**Grok3 中文版**](https://chat.lanjingai.org)，国内直连，**无需翻墙**，**支持 Grok3 及中文版功能**   
+全面体验 [**Grok3 中文版**](https://ai.lanjingai.org)，国内直连，**无需翻墙**，**支持 Grok3 及中文版功能**   
 
-本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjingai.org)、[**Grok3 国内入口**](https://xsimplechat.com)、[**Grok 镜像网站**](https://chat.lanjingai.org) 和详细使用教程，帮助您快速使用上 grok~
+本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://ai.lanjingai.org)、[**Grok3 国内入口**](https://xsimplechat.com)、[**Grok 镜像网站**](https://ai.lanjingai.org) 和详细使用教程，帮助您快速使用上 grok~
 
 **Grok3 中文版入口：[https://xsimplechat.com](https://xsimplechat.com)**   
-**Grok3 镜像网站：[https://chat.lanjingai.org](https://chat.lanjingai.org)**
+**Grok3 镜像网站：[https://ai.lanjingai.org](https://ai.lanjingai.org)**
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 ## 什么是 Grok3 中文版？
-[**Grok 中文版**](https://chat.lanjingai.org) 是 马斯克 xAI 的 grok3 模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的智能AI对话。   
+[**Grok 中文版**](https://ai.lanjingai.org) 是 马斯克 xAI 的 grok3 模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的智能AI对话。   
 相较于官网，**Grok3 中文版**在以下方面更适合国内用户：
 
 - **无需翻墙**：通过国内网站访问，无须额外的网络工具。
@@ -38,7 +38,7 @@
 | Grok 中文站网址                                   | 支持模型                                               | 稳定性   | 功能亮点                                                         |
 |----------------------------------------------------|-------------------------------------------------------|----------|------------------------------------------------------------------|
 | **一下AI ([xsimplechat.com](https://xsimplechat.com/))**     | Grok-3 Reasoning、GPT-4, GPT-4o, o1, o3                | ⭐⭐⭐⭐⭐   | Grok3 中文版，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
-| **蓝鲸AI ([chat.lanjingai.org](https://chat.lanjingai.org/))**       | Grok 3 Reasoning、GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet | ⭐⭐⭐⭐⭐   | 使用简单，先进大模型，适合新手用户                                   |
+| **蓝鲸AI ([ai.lanjingai.org](https://ai.lanjingai.org/))**       | Grok 3 Reasoning、GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet | ⭐⭐⭐⭐⭐   | 使用简单，先进大模型，适合新手用户                                   |
 | **AI智慧岛 ([chat.lify.vip](https://chat.yixiaai.com/))**       | Grok-3 Reasoning、GPT-4, GPT-4o, o1, o3                | ⭐⭐⭐⭐⭐   | Grok3 镜像网站，支持 4o、o1、o3 等全模型，支持 AI 写作、AI 编程、AI 办公，满足多种行业需求 |
 | **AI指南 ([gpt.lanjing.pro](https://gpt.lanjing.pro))**    | GPT-4, GPT-4o, o1                                      | ⭐⭐⭐⭐    | 提供 AI 使用指南，ChatGPT 中文版使用指南                           |
 | **AI工具站 ([yixiaai.cn](https://yixiaai.cn))**               | GPT-4, GPT-3.5, 4o mini                                | ⭐⭐⭐⭐    | AI 工具导航网站，汇聚大量工具，满足你的各种需求                      |
@@ -71,7 +71,7 @@
 
 ## 如何使用 Grok3 中文版？
 
-1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([chat.lanjingai.org](https://chat.lanjingai.org))**）。
+1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([ai.lanjingai.org](https://ai.lanjingai.org))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 grok3 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
